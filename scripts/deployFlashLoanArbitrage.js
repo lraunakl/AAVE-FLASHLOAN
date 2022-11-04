@@ -5,9 +5,11 @@ async function main() {
   const FlashLoanArbitrage = await hre.ethers.getContractFactory(
     "FlashLoanArbitrage"
   );
+
   const flashLoanArbitrage = await FlashLoanArbitrage.deploy(
     "0xc4dCB5126a3AfEd129BC3668Ea19285A9f56D15D"
   );
+  console.log("qdeploying...");
 
   await flashLoanArbitrage.deployed();
 
