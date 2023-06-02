@@ -1,6 +1,4 @@
-Aave Flash Loan Arbitrage 
-
-Flash Loan arbitrage smart contract from scratch in this comprehensive flash loan Arbitrage Implementation.
+Aave Flash Loa
 
 Project repo:
 
