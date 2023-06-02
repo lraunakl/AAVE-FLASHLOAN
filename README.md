@@ -67,5 +67,5 @@ npx hardhat run scripts/deploy.js
 
 
 
-FOLLOW AND COMMENT TO GET THE SOLIDITY FILES FOR IMPLEMENTATION :smiley:
+
 
